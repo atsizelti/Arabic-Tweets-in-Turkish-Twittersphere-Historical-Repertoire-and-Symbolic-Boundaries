@@ -7,7 +7,8 @@ This repository contains the supplementary materials for the study "Arabic Tweet
 ### Files
 
 1. **arabic_tweets_in_turkish_twittersphere.docx**: The full article text detailing the study, its methodology, results, and discussions.
-2. **stance_analysis_and_topic_modeling_colab_code.ipynb**: The Jupyter Notebook containing the code used for topic modeling. This notebook includes data preprocessing and topic modeling using BERT.
+2. **arabic_tweets_preprocessing_erd_tweets_filtering.ipynb**: The Jupyter Notebook containing the code used for filtering out Turkish accounts and filtering Erdogan-related tweets.
+3. **stance_analysis_and_topic_modeling_colab_code.ipynb**: The Jupyter Notebook containing the code used for topic modeling. This notebook includes data preprocessing and topic modeling using BERT.
 
 ## Study Overview
 
